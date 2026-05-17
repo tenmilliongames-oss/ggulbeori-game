@@ -1,0 +1,18 @@
+[
+  {
+    "id": "gogosmile-shirt-banner",
+    "title": "고고스마일 프린트스타 반팔 배너",
+    "image": "/projects/sample/resources/banners/bn001.png",
+    "layout": "image",
+    "url": "https://smartstore.naver.com/gogosmile",
+    "enabled": true
+  },
+  {
+    "id": "gogosmile-socks-banner",
+    "title": "고고스마일 페이크삭스 배너",
+    "image": "/projects/sample/resources/banners/bn002.png?v=20260517-2",
+    "layout": "image",
+    "url": "https://smartstore.naver.com/gogosmile",
+    "enabled": true
+  }
+]

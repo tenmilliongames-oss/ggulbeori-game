@@ -1,0 +1,35 @@
+{
+  "name": "spot-new",
+  "version": "1.0.0",
+  "description": "Spot-the-difference video authoring tool scaffold powered by PixiJS and Excel scene sheets.",
+  "directories": {
+    "doc": "docs"
+  },
+    "scripts": {
+    "generate:sample-assets": "python scripts/generate-sample-assets.py",
+    "build:index": "node scripts/build-project-index.mjs sample",
+    "build:sample-workbook": "node scripts/create-sample-workbook.mjs sample",
+    "build:sample-workbook:force": "node scripts/create-sample-workbook.mjs sample --force",
+    "export:service": "node scripts/ffmpeg-export-server.mjs",
+    "dev": "npm run generate:sample-assets && npm run build:sample-workbook && npm run build:index && vite",
+    "dev:mp4": "node scripts/run-dev-with-export.mjs",
+    "build": "npm run generate:sample-assets && npm run build:sample-workbook && npm run build:index && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "playwright": "^1.59.1",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.8"
+  },
+  "dependencies": {
+    "gsap": "^3.15.0",
+    "pixi.js": "^8.18.1",
+    "webm-muxer": "^5.1.4",
+    "xlsx": "^0.18.5"
+  }
+}

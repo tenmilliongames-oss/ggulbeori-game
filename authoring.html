@@ -1,0 +1,139 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spot Video Authoring</title>
+    <script type="module" src="/src/main.ts"></script>
+  </head>
+  <body>
+    <div id="app-shell">
+      <aside class="sidebar">
+        <div class="panel">
+          <p class="eyebrow">PixiJS + SheetJS + GSAP</p>
+          <h1>Spot Video Authoring</h1>
+          <p class="muted">
+            Excel drives the scene flow, and puzzle image file names define each detected step.
+          </p>
+        </div>
+
+        <div class="panel controls">
+          <label for="scene-select">Scene</label>
+          <select id="scene-select"></select>
+
+          <label for="time-slider">Time</label>
+          <input id="time-slider" type="range" min="0" max="1" step="0.01" value="0" />
+
+          <div class="button-row">
+            <button id="play-toggle" type="button">Play</button>
+            <button id="reset-button" type="button">Reset</button>
+          </div>
+
+          <div class="button-row">
+            <button id="export-video-button" type="button">Export MP4</button>
+            <button id="export-stop-button" type="button" disabled>Stop Export</button>
+          </div>
+          <button id="export-open-folder-button" type="button" disabled>Open Folder</button>
+
+          <label for="export-resolution-select">Export Resolution</label>
+          <select id="export-resolution-select">
+            <option value="1">720p - 1280 x 720</option>
+            <option value="1.5">1080p - 1920 x 1080</option>
+            <option value="2">1440p - 2560 x 1440</option>
+          </select>
+
+          <label for="export-layout-select">Export Layout</label>
+          <select id="export-layout-select">
+            <option value="landscape">Landscape 16:9</option>
+            <option value="shorts">Shorts 9:16</option>
+          </select>
+
+          <label for="export-scope-select">Export Scope</label>
+          <select id="export-scope-select">
+            <option value="all">Full timeline</option>
+            <option value="current-scene">Selected scene only</option>
+            <option value="current-step">Selected step scenes</option>
+            <option value="step-groups-10">Step groups of 10</option>
+          </select>
+
+          <p id="time-readout" class="mono">0.00s / 0.00s</p>
+          <p id="export-status" class="mono export-status">Ready to export MP4 timeline</p>
+        </div>
+
+        <div class="panel">
+          <h2>Project Summary</h2>
+          <dl id="project-summary" class="summary-list"></dl>
+        </div>
+
+        <div class="panel">
+          <h2>Diagnostics</h2>
+          <ul id="diagnostics" class="diagnostics"></ul>
+        </div>
+
+        <div class="panel admin-panel">
+          <h2>Admin</h2>
+          <p class="muted admin-copy">
+            Click a step image to append marker coordinates. In Chromium browsers, connect a workbook once and each click will auto-save the `Markers` sheet.
+          </p>
+
+          <div class="controls">
+            <label for="admin-step-select">Step</label>
+            <select id="admin-step-select"></select>
+
+            <label for="admin-scene-select">Target Scene</label>
+            <select id="admin-scene-select"></select>
+
+            <label for="admin-radius-input">Radius</label>
+            <input id="admin-radius-input" type="number" min="0.01" max="0.25" step="0.01" value="0.08" />
+
+            <label for="admin-reveal-input">Reveal Time</label>
+            <input id="admin-reveal-input" type="number" min="0" max="30" step="0.1" value="0.5" />
+
+            <div class="button-row button-row-compact">
+              <button id="admin-connect-button" type="button">Connect Workbook</button>
+              <button id="admin-export-button" type="button">Save Copy</button>
+            </div>
+
+            <div class="button-row button-row-compact">
+              <button id="admin-undo-button" type="button">Undo Last</button>
+              <button id="admin-clear-button" type="button">Clear Step</button>
+            </div>
+
+            <p id="admin-save-status" class="mono admin-status">Waiting for workbook connection</p>
+          </div>
+        </div>
+      </aside>
+
+      <main class="stage-area">
+        <div id="pixi-stage" class="stage-frame"></div>
+
+        <section class="admin-stage">
+          <div class="admin-stage-head">
+            <div>
+              <p class="eyebrow">Marker Authoring</p>
+              <h2>Marker Authoring</h2>
+            </div>
+            <p id="admin-step-summary" class="mono admin-summary">STEP 1 / 0 markers</p>
+          </div>
+
+          <div id="admin-image-grid" class="admin-image-grid">
+            <figure class="admin-image-card">
+              <figcaption>LEFT</figcaption>
+              <div id="admin-left-surface" class="admin-image-surface"></div>
+            </figure>
+
+            <figure class="admin-image-card">
+              <figcaption>RIGHT</figcaption>
+              <div id="admin-right-surface" class="admin-image-surface"></div>
+            </figure>
+          </div>
+
+          <div class="panel">
+            <h2>Current Step Markers</h2>
+            <ul id="admin-marker-list" class="admin-marker-list"></ul>
+          </div>
+        </section>
+      </main>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,2634 @@
+{
+  "projectName": "sample",
+  "generatedAt": "2026-05-17T05:05:03.222Z",
+  "stepCount": 68,
+  "steps": [
+    {
+      "step": 1,
+      "leftImage": "/projects/sample/resources/images/puzzles/1.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/1-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-1.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/1.webp",
+        "/projects/sample/resources/images/puzzles/1-1.webp"
+      ]
+    },
+    {
+      "step": 2,
+      "leftImage": "/projects/sample/resources/images/puzzles/2.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/2-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-2.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/2.webp",
+        "/projects/sample/resources/images/puzzles/2-1.webp"
+      ]
+    },
+    {
+      "step": 3,
+      "leftImage": "/projects/sample/resources/images/puzzles/3.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/3-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-3.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/3.webp",
+        "/projects/sample/resources/images/puzzles/3-1.webp"
+      ]
+    },
+    {
+      "step": 4,
+      "leftImage": "/projects/sample/resources/images/puzzles/4.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/4-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-4.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/4.webp",
+        "/projects/sample/resources/images/puzzles/4-1.webp"
+      ]
+    },
+    {
+      "step": 5,
+      "leftImage": "/projects/sample/resources/images/puzzles/5.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/5-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-5.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/5.webp",
+        "/projects/sample/resources/images/puzzles/5-1.webp"
+      ]
+    },
+    {
+      "step": 6,
+      "leftImage": "/projects/sample/resources/images/puzzles/6.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/6-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-6.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/6.webp",
+        "/projects/sample/resources/images/puzzles/6-1.webp"
+      ]
+    },
+    {
+      "step": 7,
+      "leftImage": "/projects/sample/resources/images/puzzles/7.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/7-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-7.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/7.webp",
+        "/projects/sample/resources/images/puzzles/7-1.webp"
+      ]
+    },
+    {
+      "step": 8,
+      "leftImage": "/projects/sample/resources/images/puzzles/8.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/8-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-8.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/8.webp",
+        "/projects/sample/resources/images/puzzles/8-1.webp"
+      ]
+    },
+    {
+      "step": 9,
+      "leftImage": "/projects/sample/resources/images/puzzles/9.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/9-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-9.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/9.webp",
+        "/projects/sample/resources/images/puzzles/9-1.webp"
+      ]
+    },
+    {
+      "step": 10,
+      "leftImage": "/projects/sample/resources/images/puzzles/10.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/10-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-10.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/10.webp",
+        "/projects/sample/resources/images/puzzles/10-1.webp"
+      ]
+    },
+    {
+      "step": 11,
+      "leftImage": "/projects/sample/resources/images/puzzles/11.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/11-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-11.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/11.webp",
+        "/projects/sample/resources/images/puzzles/11-1.webp"
+      ]
+    },
+    {
+      "step": 12,
+      "leftImage": "/projects/sample/resources/images/puzzles/12.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/12-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-12.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/12.webp",
+        "/projects/sample/resources/images/puzzles/12-1.webp"
+      ]
+    },
+    {
+      "step": 13,
+      "leftImage": "/projects/sample/resources/images/puzzles/13.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/13-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-13.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/13.webp",
+        "/projects/sample/resources/images/puzzles/13-1.webp"
+      ]
+    },
+    {
+      "step": 14,
+      "leftImage": "/projects/sample/resources/images/puzzles/14.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/14-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-14.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/14.webp",
+        "/projects/sample/resources/images/puzzles/14-1.webp"
+      ]
+    },
+    {
+      "step": 15,
+      "leftImage": "/projects/sample/resources/images/puzzles/15.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/15-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-15.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/15.webp",
+        "/projects/sample/resources/images/puzzles/15-1.webp"
+      ]
+    },
+    {
+      "step": 16,
+      "leftImage": "/projects/sample/resources/images/puzzles/16.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/16-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-16.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/16.webp",
+        "/projects/sample/resources/images/puzzles/16-1.webp"
+      ]
+    },
+    {
+      "step": 17,
+      "leftImage": "/projects/sample/resources/images/puzzles/17.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/17-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-17.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/17.webp",
+        "/projects/sample/resources/images/puzzles/17-1.webp"
+      ]
+    },
+    {
+      "step": 18,
+      "leftImage": "/projects/sample/resources/images/puzzles/18.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/18-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-18.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/18.webp",
+        "/projects/sample/resources/images/puzzles/18-1.webp"
+      ]
+    },
+    {
+      "step": 19,
+      "leftImage": "/projects/sample/resources/images/puzzles/19.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/19-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-19.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/19.webp",
+        "/projects/sample/resources/images/puzzles/19-1.webp"
+      ]
+    },
+    {
+      "step": 20,
+      "leftImage": "/projects/sample/resources/images/puzzles/20.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/20-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-20.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/20.webp",
+        "/projects/sample/resources/images/puzzles/20-1.webp"
+      ]
+    },
+    {
+      "step": 21,
+      "leftImage": "/projects/sample/resources/images/puzzles/21.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/21-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-21.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/21.webp",
+        "/projects/sample/resources/images/puzzles/21-1.webp"
+      ]
+    },
+    {
+      "step": 22,
+      "leftImage": "/projects/sample/resources/images/puzzles/22.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/22-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-22.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/22.webp",
+        "/projects/sample/resources/images/puzzles/22-1.webp"
+      ]
+    },
+    {
+      "step": 23,
+      "leftImage": "/projects/sample/resources/images/puzzles/23.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/23-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-23.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/23.webp",
+        "/projects/sample/resources/images/puzzles/23-1.webp"
+      ]
+    },
+    {
+      "step": 24,
+      "leftImage": "/projects/sample/resources/images/puzzles/24.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/24-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-24.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/24.webp",
+        "/projects/sample/resources/images/puzzles/24-1.webp"
+      ]
+    },
+    {
+      "step": 25,
+      "leftImage": "/projects/sample/resources/images/puzzles/25.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/25-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-25.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/25.webp",
+        "/projects/sample/resources/images/puzzles/25-1.webp"
+      ]
+    },
+    {
+      "step": 26,
+      "leftImage": "/projects/sample/resources/images/puzzles/26.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/26-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-26.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/26.webp",
+        "/projects/sample/resources/images/puzzles/26-1.webp"
+      ]
+    },
+    {
+      "step": 27,
+      "leftImage": "/projects/sample/resources/images/puzzles/27.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/27-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-27.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/27.webp",
+        "/projects/sample/resources/images/puzzles/27-1.webp"
+      ]
+    },
+    {
+      "step": 28,
+      "leftImage": "/projects/sample/resources/images/puzzles/28.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/28-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-28.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/28.webp",
+        "/projects/sample/resources/images/puzzles/28-1.webp"
+      ]
+    },
+    {
+      "step": 29,
+      "leftImage": "/projects/sample/resources/images/puzzles/29.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/29-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-29.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/29.webp",
+        "/projects/sample/resources/images/puzzles/29-1.webp"
+      ]
+    },
+    {
+      "step": 30,
+      "leftImage": "/projects/sample/resources/images/puzzles/30.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/30-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-30.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/30.webp",
+        "/projects/sample/resources/images/puzzles/30-1.webp"
+      ]
+    },
+    {
+      "step": 31,
+      "leftImage": "/projects/sample/resources/images/puzzles/31.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/31-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-31.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/31.webp",
+        "/projects/sample/resources/images/puzzles/31-1.webp"
+      ]
+    },
+    {
+      "step": 32,
+      "leftImage": "/projects/sample/resources/images/puzzles/32.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/32-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-32.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/32.webp",
+        "/projects/sample/resources/images/puzzles/32-1.webp"
+      ]
+    },
+    {
+      "step": 33,
+      "leftImage": "/projects/sample/resources/images/puzzles/33.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/33-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-33.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/33.webp",
+        "/projects/sample/resources/images/puzzles/33-1.webp"
+      ]
+    },
+    {
+      "step": 34,
+      "leftImage": "/projects/sample/resources/images/puzzles/34.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/34-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-34.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/34.webp",
+        "/projects/sample/resources/images/puzzles/34-1.webp"
+      ]
+    },
+    {
+      "step": 35,
+      "leftImage": "/projects/sample/resources/images/puzzles/35.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/35-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-35.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/35.webp",
+        "/projects/sample/resources/images/puzzles/35-1.webp"
+      ]
+    },
+    {
+      "step": 36,
+      "leftImage": "/projects/sample/resources/images/puzzles/36.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/36-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-36.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/36.webp",
+        "/projects/sample/resources/images/puzzles/36-1.webp"
+      ]
+    },
+    {
+      "step": 37,
+      "leftImage": "/projects/sample/resources/images/puzzles/37.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/37-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-37.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/37.webp",
+        "/projects/sample/resources/images/puzzles/37-1.webp"
+      ]
+    },
+    {
+      "step": 38,
+      "leftImage": "/projects/sample/resources/images/puzzles/38.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/38-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-38.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/38.webp",
+        "/projects/sample/resources/images/puzzles/38-1.webp"
+      ]
+    },
+    {
+      "step": 39,
+      "leftImage": "/projects/sample/resources/images/puzzles/39.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/39-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-39.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/39.webp",
+        "/projects/sample/resources/images/puzzles/39-1.webp"
+      ]
+    },
+    {
+      "step": 40,
+      "leftImage": "/projects/sample/resources/images/puzzles/40.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/40-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-40.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/40.webp",
+        "/projects/sample/resources/images/puzzles/40-1.webp"
+      ]
+    },
+    {
+      "step": 41,
+      "leftImage": "/projects/sample/resources/images/puzzles/41.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/41-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-41.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/41.webp",
+        "/projects/sample/resources/images/puzzles/41-1.webp"
+      ]
+    },
+    {
+      "step": 42,
+      "leftImage": "/projects/sample/resources/images/puzzles/42.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/42-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-42.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/42.webp",
+        "/projects/sample/resources/images/puzzles/42-1.webp"
+      ]
+    },
+    {
+      "step": 43,
+      "leftImage": "/projects/sample/resources/images/puzzles/43.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/43-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-43.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/43.webp",
+        "/projects/sample/resources/images/puzzles/43-1.webp"
+      ]
+    },
+    {
+      "step": 44,
+      "leftImage": "/projects/sample/resources/images/puzzles/44.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/44-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-44.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/44.webp",
+        "/projects/sample/resources/images/puzzles/44-1.webp"
+      ]
+    },
+    {
+      "step": 45,
+      "leftImage": "/projects/sample/resources/images/puzzles/45.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/45-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-45.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/45.webp",
+        "/projects/sample/resources/images/puzzles/45-1.webp"
+      ]
+    },
+    {
+      "step": 46,
+      "leftImage": "/projects/sample/resources/images/puzzles/46.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/46-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-46.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/46.webp",
+        "/projects/sample/resources/images/puzzles/46-1.webp"
+      ]
+    },
+    {
+      "step": 47,
+      "leftImage": "/projects/sample/resources/images/puzzles/47.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/47-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-47.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/47.webp",
+        "/projects/sample/resources/images/puzzles/47-1.webp"
+      ]
+    },
+    {
+      "step": 48,
+      "leftImage": "/projects/sample/resources/images/puzzles/48.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/48-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-48.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/48.webp",
+        "/projects/sample/resources/images/puzzles/48-1.webp"
+      ]
+    },
+    {
+      "step": 49,
+      "leftImage": "/projects/sample/resources/images/puzzles/49.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/49-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-49.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/49.webp",
+        "/projects/sample/resources/images/puzzles/49-1.webp"
+      ]
+    },
+    {
+      "step": 50,
+      "leftImage": "/projects/sample/resources/images/puzzles/50.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/50-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-50.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/50.webp",
+        "/projects/sample/resources/images/puzzles/50-1.webp"
+      ]
+    },
+    {
+      "step": 51,
+      "leftImage": "/projects/sample/resources/images/puzzles/51.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/51-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-51.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/51.webp",
+        "/projects/sample/resources/images/puzzles/51-1.webp"
+      ]
+    },
+    {
+      "step": 52,
+      "leftImage": "/projects/sample/resources/images/puzzles/52.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/52-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-52.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/52.webp",
+        "/projects/sample/resources/images/puzzles/52-1.webp"
+      ]
+    },
+    {
+      "step": 53,
+      "leftImage": "/projects/sample/resources/images/puzzles/53.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/53-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-53.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/53.webp",
+        "/projects/sample/resources/images/puzzles/53-1.webp"
+      ]
+    },
+    {
+      "step": 54,
+      "leftImage": "/projects/sample/resources/images/puzzles/54.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/54-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-54.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/54.webp",
+        "/projects/sample/resources/images/puzzles/54-1.webp"
+      ]
+    },
+    {
+      "step": 55,
+      "leftImage": "/projects/sample/resources/images/puzzles/55.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/55-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-55.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/55.webp",
+        "/projects/sample/resources/images/puzzles/55-1.webp"
+      ]
+    },
+    {
+      "step": 56,
+      "leftImage": "/projects/sample/resources/images/puzzles/56.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/56-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-56.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/56.webp",
+        "/projects/sample/resources/images/puzzles/56-1.webp"
+      ]
+    },
+    {
+      "step": 57,
+      "leftImage": "/projects/sample/resources/images/puzzles/57.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/57-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-57.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/57.webp",
+        "/projects/sample/resources/images/puzzles/57-1.webp"
+      ]
+    },
+    {
+      "step": 58,
+      "leftImage": "/projects/sample/resources/images/puzzles/58.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/58-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-58.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/58.webp",
+        "/projects/sample/resources/images/puzzles/58-1.webp"
+      ]
+    },
+    {
+      "step": 59,
+      "leftImage": "/projects/sample/resources/images/puzzles/59.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/59-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-59.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/59.webp",
+        "/projects/sample/resources/images/puzzles/59-1.webp"
+      ]
+    },
+    {
+      "step": 60,
+      "leftImage": "/projects/sample/resources/images/puzzles/60.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/60-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-60.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/60.webp",
+        "/projects/sample/resources/images/puzzles/60-1.webp"
+      ]
+    },
+    {
+      "step": 61,
+      "leftImage": "/projects/sample/resources/images/puzzles/61.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/61-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-61.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/61.webp",
+        "/projects/sample/resources/images/puzzles/61-1.webp"
+      ]
+    },
+    {
+      "step": 62,
+      "leftImage": "/projects/sample/resources/images/puzzles/62.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/62-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-62.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/62.webp",
+        "/projects/sample/resources/images/puzzles/62-1.webp"
+      ]
+    },
+    {
+      "step": 63,
+      "leftImage": "/projects/sample/resources/images/puzzles/63.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/63-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-63.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/63.webp",
+        "/projects/sample/resources/images/puzzles/63-1.webp"
+      ]
+    },
+    {
+      "step": 64,
+      "leftImage": "/projects/sample/resources/images/puzzles/64.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/64-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-64.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/64.webp",
+        "/projects/sample/resources/images/puzzles/64-1.webp"
+      ]
+    },
+    {
+      "step": 65,
+      "leftImage": "/projects/sample/resources/images/puzzles/65.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/65-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-65.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/65.webp",
+        "/projects/sample/resources/images/puzzles/65-1.webp"
+      ]
+    },
+    {
+      "step": 66,
+      "leftImage": "/projects/sample/resources/images/puzzles/66.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/66-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-66.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/66.webp",
+        "/projects/sample/resources/images/puzzles/66-1.webp"
+      ]
+    },
+    {
+      "step": 67,
+      "leftImage": "/projects/sample/resources/images/puzzles/67.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/67-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-67.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/67.webp",
+        "/projects/sample/resources/images/puzzles/67-1.webp"
+      ]
+    },
+    {
+      "step": 68,
+      "leftImage": "/projects/sample/resources/images/puzzles/68.webp",
+      "rightImage": "/projects/sample/resources/images/puzzles/68-1.webp",
+      "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-68.webp",
+      "variants": [
+        "/projects/sample/resources/images/puzzles/68.webp",
+        "/projects/sample/resources/images/puzzles/68-1.webp"
+      ]
+    }
+  ],
+  "styles": [
+    {
+      "id": "default",
+      "name": "기본 스타일",
+      "coverImage": "/projects/sample/resources/images/level-thumbnails/level-1.webp",
+      "stepCount": 68,
+      "steps": [
+        {
+          "step": 1,
+          "leftImage": "/projects/sample/resources/images/puzzles/1.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/1-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-1.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/1.webp",
+            "/projects/sample/resources/images/puzzles/1-1.webp"
+          ]
+        },
+        {
+          "step": 2,
+          "leftImage": "/projects/sample/resources/images/puzzles/2.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/2-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-2.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/2.webp",
+            "/projects/sample/resources/images/puzzles/2-1.webp"
+          ]
+        },
+        {
+          "step": 3,
+          "leftImage": "/projects/sample/resources/images/puzzles/3.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/3-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-3.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/3.webp",
+            "/projects/sample/resources/images/puzzles/3-1.webp"
+          ]
+        },
+        {
+          "step": 4,
+          "leftImage": "/projects/sample/resources/images/puzzles/4.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/4-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-4.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/4.webp",
+            "/projects/sample/resources/images/puzzles/4-1.webp"
+          ]
+        },
+        {
+          "step": 5,
+          "leftImage": "/projects/sample/resources/images/puzzles/5.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/5-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-5.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/5.webp",
+            "/projects/sample/resources/images/puzzles/5-1.webp"
+          ]
+        },
+        {
+          "step": 6,
+          "leftImage": "/projects/sample/resources/images/puzzles/6.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/6-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-6.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/6.webp",
+            "/projects/sample/resources/images/puzzles/6-1.webp"
+          ]
+        },
+        {
+          "step": 7,
+          "leftImage": "/projects/sample/resources/images/puzzles/7.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/7-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-7.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/7.webp",
+            "/projects/sample/resources/images/puzzles/7-1.webp"
+          ]
+        },
+        {
+          "step": 8,
+          "leftImage": "/projects/sample/resources/images/puzzles/8.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/8-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-8.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/8.webp",
+            "/projects/sample/resources/images/puzzles/8-1.webp"
+          ]
+        },
+        {
+          "step": 9,
+          "leftImage": "/projects/sample/resources/images/puzzles/9.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/9-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-9.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/9.webp",
+            "/projects/sample/resources/images/puzzles/9-1.webp"
+          ]
+        },
+        {
+          "step": 10,
+          "leftImage": "/projects/sample/resources/images/puzzles/10.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/10-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-10.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/10.webp",
+            "/projects/sample/resources/images/puzzles/10-1.webp"
+          ]
+        },
+        {
+          "step": 11,
+          "leftImage": "/projects/sample/resources/images/puzzles/11.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/11-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-11.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/11.webp",
+            "/projects/sample/resources/images/puzzles/11-1.webp"
+          ]
+        },
+        {
+          "step": 12,
+          "leftImage": "/projects/sample/resources/images/puzzles/12.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/12-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-12.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/12.webp",
+            "/projects/sample/resources/images/puzzles/12-1.webp"
+          ]
+        },
+        {
+          "step": 13,
+          "leftImage": "/projects/sample/resources/images/puzzles/13.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/13-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-13.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/13.webp",
+            "/projects/sample/resources/images/puzzles/13-1.webp"
+          ]
+        },
+        {
+          "step": 14,
+          "leftImage": "/projects/sample/resources/images/puzzles/14.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/14-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-14.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/14.webp",
+            "/projects/sample/resources/images/puzzles/14-1.webp"
+          ]
+        },
+        {
+          "step": 15,
+          "leftImage": "/projects/sample/resources/images/puzzles/15.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/15-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-15.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/15.webp",
+            "/projects/sample/resources/images/puzzles/15-1.webp"
+          ]
+        },
+        {
+          "step": 16,
+          "leftImage": "/projects/sample/resources/images/puzzles/16.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/16-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-16.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/16.webp",
+            "/projects/sample/resources/images/puzzles/16-1.webp"
+          ]
+        },
+        {
+          "step": 17,
+          "leftImage": "/projects/sample/resources/images/puzzles/17.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/17-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-17.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/17.webp",
+            "/projects/sample/resources/images/puzzles/17-1.webp"
+          ]
+        },
+        {
+          "step": 18,
+          "leftImage": "/projects/sample/resources/images/puzzles/18.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/18-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-18.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/18.webp",
+            "/projects/sample/resources/images/puzzles/18-1.webp"
+          ]
+        },
+        {
+          "step": 19,
+          "leftImage": "/projects/sample/resources/images/puzzles/19.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/19-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-19.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/19.webp",
+            "/projects/sample/resources/images/puzzles/19-1.webp"
+          ]
+        },
+        {
+          "step": 20,
+          "leftImage": "/projects/sample/resources/images/puzzles/20.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/20-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-20.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/20.webp",
+            "/projects/sample/resources/images/puzzles/20-1.webp"
+          ]
+        },
+        {
+          "step": 21,
+          "leftImage": "/projects/sample/resources/images/puzzles/21.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/21-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-21.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/21.webp",
+            "/projects/sample/resources/images/puzzles/21-1.webp"
+          ]
+        },
+        {
+          "step": 22,
+          "leftImage": "/projects/sample/resources/images/puzzles/22.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/22-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-22.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/22.webp",
+            "/projects/sample/resources/images/puzzles/22-1.webp"
+          ]
+        },
+        {
+          "step": 23,
+          "leftImage": "/projects/sample/resources/images/puzzles/23.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/23-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-23.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/23.webp",
+            "/projects/sample/resources/images/puzzles/23-1.webp"
+          ]
+        },
+        {
+          "step": 24,
+          "leftImage": "/projects/sample/resources/images/puzzles/24.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/24-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-24.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/24.webp",
+            "/projects/sample/resources/images/puzzles/24-1.webp"
+          ]
+        },
+        {
+          "step": 25,
+          "leftImage": "/projects/sample/resources/images/puzzles/25.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/25-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-25.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/25.webp",
+            "/projects/sample/resources/images/puzzles/25-1.webp"
+          ]
+        },
+        {
+          "step": 26,
+          "leftImage": "/projects/sample/resources/images/puzzles/26.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/26-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-26.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/26.webp",
+            "/projects/sample/resources/images/puzzles/26-1.webp"
+          ]
+        },
+        {
+          "step": 27,
+          "leftImage": "/projects/sample/resources/images/puzzles/27.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/27-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-27.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/27.webp",
+            "/projects/sample/resources/images/puzzles/27-1.webp"
+          ]
+        },
+        {
+          "step": 28,
+          "leftImage": "/projects/sample/resources/images/puzzles/28.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/28-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-28.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/28.webp",
+            "/projects/sample/resources/images/puzzles/28-1.webp"
+          ]
+        },
+        {
+          "step": 29,
+          "leftImage": "/projects/sample/resources/images/puzzles/29.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/29-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-29.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/29.webp",
+            "/projects/sample/resources/images/puzzles/29-1.webp"
+          ]
+        },
+        {
+          "step": 30,
+          "leftImage": "/projects/sample/resources/images/puzzles/30.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/30-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-30.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/30.webp",
+            "/projects/sample/resources/images/puzzles/30-1.webp"
+          ]
+        },
+        {
+          "step": 31,
+          "leftImage": "/projects/sample/resources/images/puzzles/31.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/31-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-31.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/31.webp",
+            "/projects/sample/resources/images/puzzles/31-1.webp"
+          ]
+        },
+        {
+          "step": 32,
+          "leftImage": "/projects/sample/resources/images/puzzles/32.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/32-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-32.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/32.webp",
+            "/projects/sample/resources/images/puzzles/32-1.webp"
+          ]
+        },
+        {
+          "step": 33,
+          "leftImage": "/projects/sample/resources/images/puzzles/33.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/33-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-33.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/33.webp",
+            "/projects/sample/resources/images/puzzles/33-1.webp"
+          ]
+        },
+        {
+          "step": 34,
+          "leftImage": "/projects/sample/resources/images/puzzles/34.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/34-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-34.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/34.webp",
+            "/projects/sample/resources/images/puzzles/34-1.webp"
+          ]
+        },
+        {
+          "step": 35,
+          "leftImage": "/projects/sample/resources/images/puzzles/35.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/35-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-35.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/35.webp",
+            "/projects/sample/resources/images/puzzles/35-1.webp"
+          ]
+        },
+        {
+          "step": 36,
+          "leftImage": "/projects/sample/resources/images/puzzles/36.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/36-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-36.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/36.webp",
+            "/projects/sample/resources/images/puzzles/36-1.webp"
+          ]
+        },
+        {
+          "step": 37,
+          "leftImage": "/projects/sample/resources/images/puzzles/37.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/37-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-37.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/37.webp",
+            "/projects/sample/resources/images/puzzles/37-1.webp"
+          ]
+        },
+        {
+          "step": 38,
+          "leftImage": "/projects/sample/resources/images/puzzles/38.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/38-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-38.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/38.webp",
+            "/projects/sample/resources/images/puzzles/38-1.webp"
+          ]
+        },
+        {
+          "step": 39,
+          "leftImage": "/projects/sample/resources/images/puzzles/39.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/39-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-39.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/39.webp",
+            "/projects/sample/resources/images/puzzles/39-1.webp"
+          ]
+        },
+        {
+          "step": 40,
+          "leftImage": "/projects/sample/resources/images/puzzles/40.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/40-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-40.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/40.webp",
+            "/projects/sample/resources/images/puzzles/40-1.webp"
+          ]
+        },
+        {
+          "step": 41,
+          "leftImage": "/projects/sample/resources/images/puzzles/41.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/41-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-41.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/41.webp",
+            "/projects/sample/resources/images/puzzles/41-1.webp"
+          ]
+        },
+        {
+          "step": 42,
+          "leftImage": "/projects/sample/resources/images/puzzles/42.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/42-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-42.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/42.webp",
+            "/projects/sample/resources/images/puzzles/42-1.webp"
+          ]
+        },
+        {
+          "step": 43,
+          "leftImage": "/projects/sample/resources/images/puzzles/43.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/43-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-43.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/43.webp",
+            "/projects/sample/resources/images/puzzles/43-1.webp"
+          ]
+        },
+        {
+          "step": 44,
+          "leftImage": "/projects/sample/resources/images/puzzles/44.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/44-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-44.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/44.webp",
+            "/projects/sample/resources/images/puzzles/44-1.webp"
+          ]
+        },
+        {
+          "step": 45,
+          "leftImage": "/projects/sample/resources/images/puzzles/45.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/45-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-45.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/45.webp",
+            "/projects/sample/resources/images/puzzles/45-1.webp"
+          ]
+        },
+        {
+          "step": 46,
+          "leftImage": "/projects/sample/resources/images/puzzles/46.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/46-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-46.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/46.webp",
+            "/projects/sample/resources/images/puzzles/46-1.webp"
+          ]
+        },
+        {
+          "step": 47,
+          "leftImage": "/projects/sample/resources/images/puzzles/47.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/47-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-47.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/47.webp",
+            "/projects/sample/resources/images/puzzles/47-1.webp"
+          ]
+        },
+        {
+          "step": 48,
+          "leftImage": "/projects/sample/resources/images/puzzles/48.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/48-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-48.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/48.webp",
+            "/projects/sample/resources/images/puzzles/48-1.webp"
+          ]
+        },
+        {
+          "step": 49,
+          "leftImage": "/projects/sample/resources/images/puzzles/49.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/49-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-49.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/49.webp",
+            "/projects/sample/resources/images/puzzles/49-1.webp"
+          ]
+        },
+        {
+          "step": 50,
+          "leftImage": "/projects/sample/resources/images/puzzles/50.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/50-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-50.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/50.webp",
+            "/projects/sample/resources/images/puzzles/50-1.webp"
+          ]
+        },
+        {
+          "step": 51,
+          "leftImage": "/projects/sample/resources/images/puzzles/51.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/51-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-51.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/51.webp",
+            "/projects/sample/resources/images/puzzles/51-1.webp"
+          ]
+        },
+        {
+          "step": 52,
+          "leftImage": "/projects/sample/resources/images/puzzles/52.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/52-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-52.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/52.webp",
+            "/projects/sample/resources/images/puzzles/52-1.webp"
+          ]
+        },
+        {
+          "step": 53,
+          "leftImage": "/projects/sample/resources/images/puzzles/53.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/53-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-53.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/53.webp",
+            "/projects/sample/resources/images/puzzles/53-1.webp"
+          ]
+        },
+        {
+          "step": 54,
+          "leftImage": "/projects/sample/resources/images/puzzles/54.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/54-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-54.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/54.webp",
+            "/projects/sample/resources/images/puzzles/54-1.webp"
+          ]
+        },
+        {
+          "step": 55,
+          "leftImage": "/projects/sample/resources/images/puzzles/55.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/55-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-55.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/55.webp",
+            "/projects/sample/resources/images/puzzles/55-1.webp"
+          ]
+        },
+        {
+          "step": 56,
+          "leftImage": "/projects/sample/resources/images/puzzles/56.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/56-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-56.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/56.webp",
+            "/projects/sample/resources/images/puzzles/56-1.webp"
+          ]
+        },
+        {
+          "step": 57,
+          "leftImage": "/projects/sample/resources/images/puzzles/57.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/57-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-57.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/57.webp",
+            "/projects/sample/resources/images/puzzles/57-1.webp"
+          ]
+        },
+        {
+          "step": 58,
+          "leftImage": "/projects/sample/resources/images/puzzles/58.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/58-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-58.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/58.webp",
+            "/projects/sample/resources/images/puzzles/58-1.webp"
+          ]
+        },
+        {
+          "step": 59,
+          "leftImage": "/projects/sample/resources/images/puzzles/59.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/59-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-59.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/59.webp",
+            "/projects/sample/resources/images/puzzles/59-1.webp"
+          ]
+        },
+        {
+          "step": 60,
+          "leftImage": "/projects/sample/resources/images/puzzles/60.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/60-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-60.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/60.webp",
+            "/projects/sample/resources/images/puzzles/60-1.webp"
+          ]
+        },
+        {
+          "step": 61,
+          "leftImage": "/projects/sample/resources/images/puzzles/61.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/61-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-61.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/61.webp",
+            "/projects/sample/resources/images/puzzles/61-1.webp"
+          ]
+        },
+        {
+          "step": 62,
+          "leftImage": "/projects/sample/resources/images/puzzles/62.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/62-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-62.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/62.webp",
+            "/projects/sample/resources/images/puzzles/62-1.webp"
+          ]
+        },
+        {
+          "step": 63,
+          "leftImage": "/projects/sample/resources/images/puzzles/63.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/63-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-63.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/63.webp",
+            "/projects/sample/resources/images/puzzles/63-1.webp"
+          ]
+        },
+        {
+          "step": 64,
+          "leftImage": "/projects/sample/resources/images/puzzles/64.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/64-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-64.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/64.webp",
+            "/projects/sample/resources/images/puzzles/64-1.webp"
+          ]
+        },
+        {
+          "step": 65,
+          "leftImage": "/projects/sample/resources/images/puzzles/65.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/65-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-65.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/65.webp",
+            "/projects/sample/resources/images/puzzles/65-1.webp"
+          ]
+        },
+        {
+          "step": 66,
+          "leftImage": "/projects/sample/resources/images/puzzles/66.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/66-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-66.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/66.webp",
+            "/projects/sample/resources/images/puzzles/66-1.webp"
+          ]
+        },
+        {
+          "step": 67,
+          "leftImage": "/projects/sample/resources/images/puzzles/67.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/67-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-67.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/67.webp",
+            "/projects/sample/resources/images/puzzles/67-1.webp"
+          ]
+        },
+        {
+          "step": 68,
+          "leftImage": "/projects/sample/resources/images/puzzles/68.webp",
+          "rightImage": "/projects/sample/resources/images/puzzles/68-1.webp",
+          "thumbnailImage": "/projects/sample/resources/images/level-thumbnails/level-68.webp",
+          "variants": [
+            "/projects/sample/resources/images/puzzles/68.webp",
+            "/projects/sample/resources/images/puzzles/68-1.webp"
+          ]
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "backgroundImages": [
+      "/projects/sample/resources/images/backgrounds/puzzle-bg.png",
+      "/projects/sample/resources/images/backgrounds/title-bg.png"
+    ],
+    "uiImages": [
+      "/projects/sample/resources/images/ui/cards/timeout-card-frame.png",
+      "/projects/sample/resources/images/ui/cards/title-card-frame.png",
+      "/projects/sample/resources/images/ui/countdown/0.png",
+      "/projects/sample/resources/images/ui/countdown/1.png",
+      "/projects/sample/resources/images/ui/countdown/10.png",
+      "/projects/sample/resources/images/ui/countdown/100.png",
+      "/projects/sample/resources/images/ui/countdown/101.png",
+      "/projects/sample/resources/images/ui/countdown/102.png",
+      "/projects/sample/resources/images/ui/countdown/103.png",
+      "/projects/sample/resources/images/ui/countdown/104.png",
+      "/projects/sample/resources/images/ui/countdown/105.png",
+      "/projects/sample/resources/images/ui/countdown/106.png",
+      "/projects/sample/resources/images/ui/countdown/107.png",
+      "/projects/sample/resources/images/ui/countdown/108.png",
+      "/projects/sample/resources/images/ui/countdown/109.png",
+      "/projects/sample/resources/images/ui/countdown/11.png",
+      "/projects/sample/resources/images/ui/countdown/110.png",
+      "/projects/sample/resources/images/ui/countdown/111.png",
+      "/projects/sample/resources/images/ui/countdown/112.png",
+      "/projects/sample/resources/images/ui/countdown/113.png",
+      "/projects/sample/resources/images/ui/countdown/114.png",
+      "/projects/sample/resources/images/ui/countdown/115.png",
+      "/projects/sample/resources/images/ui/countdown/116.png",
+      "/projects/sample/resources/images/ui/countdown/117.png",
+      "/projects/sample/resources/images/ui/countdown/118.png",
+      "/projects/sample/resources/images/ui/countdown/119.png",
+      "/projects/sample/resources/images/ui/countdown/12.png",
+      "/projects/sample/resources/images/ui/countdown/120.png",
+      "/projects/sample/resources/images/ui/countdown/13.png",
+      "/projects/sample/resources/images/ui/countdown/14.png",
+      "/projects/sample/resources/images/ui/countdown/15.png",
+      "/projects/sample/resources/images/ui/countdown/16.png",
+      "/projects/sample/resources/images/ui/countdown/17.png",
+      "/projects/sample/resources/images/ui/countdown/18.png",
+      "/projects/sample/resources/images/ui/countdown/19.png",
+      "/projects/sample/resources/images/ui/countdown/2.png",
+      "/projects/sample/resources/images/ui/countdown/20.png",
+      "/projects/sample/resources/images/ui/countdown/21.png",
+      "/projects/sample/resources/images/ui/countdown/22.png",
+      "/projects/sample/resources/images/ui/countdown/23.png",
+      "/projects/sample/resources/images/ui/countdown/24.png",
+      "/projects/sample/resources/images/ui/countdown/25.png",
+      "/projects/sample/resources/images/ui/countdown/26.png",
+      "/projects/sample/resources/images/ui/countdown/27.png",
+      "/projects/sample/resources/images/ui/countdown/28.png",
+      "/projects/sample/resources/images/ui/countdown/29.png",
+      "/projects/sample/resources/images/ui/countdown/3.png",
+      "/projects/sample/resources/images/ui/countdown/30.png",
+      "/projects/sample/resources/images/ui/countdown/31.png",
+      "/projects/sample/resources/images/ui/countdown/32.png",
+      "/projects/sample/resources/images/ui/countdown/33.png",
+      "/projects/sample/resources/images/ui/countdown/34.png",
+      "/projects/sample/resources/images/ui/countdown/35.png",
+      "/projects/sample/resources/images/ui/countdown/36.png",
+      "/projects/sample/resources/images/ui/countdown/37.png",
+      "/projects/sample/resources/images/ui/countdown/38.png",
+      "/projects/sample/resources/images/ui/countdown/39.png",
+      "/projects/sample/resources/images/ui/countdown/4.png",
+      "/projects/sample/resources/images/ui/countdown/40.png",
+      "/projects/sample/resources/images/ui/countdown/41.png",
+      "/projects/sample/resources/images/ui/countdown/42.png",
+      "/projects/sample/resources/images/ui/countdown/43.png",
+      "/projects/sample/resources/images/ui/countdown/44.png",
+      "/projects/sample/resources/images/ui/countdown/45.png",
+      "/projects/sample/resources/images/ui/countdown/46.png",
+      "/projects/sample/resources/images/ui/countdown/47.png",
+      "/projects/sample/resources/images/ui/countdown/48.png",
+      "/projects/sample/resources/images/ui/countdown/49.png",
+      "/projects/sample/resources/images/ui/countdown/5.png",
+      "/projects/sample/resources/images/ui/countdown/50.png",
+      "/projects/sample/resources/images/ui/countdown/51.png",
+      "/projects/sample/resources/images/ui/countdown/52.png",
+      "/projects/sample/resources/images/ui/countdown/53.png",
+      "/projects/sample/resources/images/ui/countdown/54.png",
+      "/projects/sample/resources/images/ui/countdown/55.png",
+      "/projects/sample/resources/images/ui/countdown/56.png",
+      "/projects/sample/resources/images/ui/countdown/57.png",
+      "/projects/sample/resources/images/ui/countdown/58.png",
+      "/projects/sample/resources/images/ui/countdown/59.png",
+      "/projects/sample/resources/images/ui/countdown/6.png",
+      "/projects/sample/resources/images/ui/countdown/60.png",
+      "/projects/sample/resources/images/ui/countdown/61.png",
+      "/projects/sample/resources/images/ui/countdown/62.png",
+      "/projects/sample/resources/images/ui/countdown/63.png",
+      "/projects/sample/resources/images/ui/countdown/64.png",
+      "/projects/sample/resources/images/ui/countdown/65.png",
+      "/projects/sample/resources/images/ui/countdown/66.png",
+      "/projects/sample/resources/images/ui/countdown/67.png",
+      "/projects/sample/resources/images/ui/countdown/68.png",
+      "/projects/sample/resources/images/ui/countdown/69.png",
+      "/projects/sample/resources/images/ui/countdown/7.png",
+      "/projects/sample/resources/images/ui/countdown/70.png",
+      "/projects/sample/resources/images/ui/countdown/71.png",
+      "/projects/sample/resources/images/ui/countdown/72.png",
+      "/projects/sample/resources/images/ui/countdown/73.png",
+      "/projects/sample/resources/images/ui/countdown/74.png",
+      "/projects/sample/resources/images/ui/countdown/75.png",
+      "/projects/sample/resources/images/ui/countdown/76.png",
+      "/projects/sample/resources/images/ui/countdown/77.png",
+      "/projects/sample/resources/images/ui/countdown/78.png",
+      "/projects/sample/resources/images/ui/countdown/79.png",
+      "/projects/sample/resources/images/ui/countdown/8.png",
+      "/projects/sample/resources/images/ui/countdown/80.png",
+      "/projects/sample/resources/images/ui/countdown/81.png",
+      "/projects/sample/resources/images/ui/countdown/82.png",
+      "/projects/sample/resources/images/ui/countdown/83.png",
+      "/projects/sample/resources/images/ui/countdown/84.png",
+      "/projects/sample/resources/images/ui/countdown/85.png",
+      "/projects/sample/resources/images/ui/countdown/86.png",
+      "/projects/sample/resources/images/ui/countdown/87.png",
+      "/projects/sample/resources/images/ui/countdown/88.png",
+      "/projects/sample/resources/images/ui/countdown/89.png",
+      "/projects/sample/resources/images/ui/countdown/9.png",
+      "/projects/sample/resources/images/ui/countdown/90.png",
+      "/projects/sample/resources/images/ui/countdown/91.png",
+      "/projects/sample/resources/images/ui/countdown/92.png",
+      "/projects/sample/resources/images/ui/countdown/93.png",
+      "/projects/sample/resources/images/ui/countdown/94.png",
+      "/projects/sample/resources/images/ui/countdown/95.png",
+      "/projects/sample/resources/images/ui/countdown/96.png",
+      "/projects/sample/resources/images/ui/countdown/97.png",
+      "/projects/sample/resources/images/ui/countdown/98.png",
+      "/projects/sample/resources/images/ui/countdown/99.png",
+      "/projects/sample/resources/images/ui/hud-blue.png",
+      "/projects/sample/resources/images/ui/hud-teal.png",
+      "/projects/sample/resources/images/ui/hud/answer-1-hud.png",
+      "/projects/sample/resources/images/ui/hud/bee-flap-1.png",
+      "/projects/sample/resources/images/ui/hud/bee-flap-2.png",
+      "/projects/sample/resources/images/ui/hud/bee-flap-3.png",
+      "/projects/sample/resources/images/ui/hud/bee-flap-4.png",
+      "/projects/sample/resources/images/ui/hud/bee-strip.png",
+      "/projects/sample/resources/images/ui/hud/bee.png",
+      "/projects/sample/resources/images/ui/hud/beehouse.png",
+      "/projects/sample/resources/images/ui/hud/ending.png",
+      "/projects/sample/resources/images/ui/hud/hud-bar.png",
+      "/projects/sample/resources/images/ui/hud/hud-blue.png",
+      "/projects/sample/resources/images/ui/hud/hud-teal.png",
+      "/projects/sample/resources/images/ui/hud/logo-game.png",
+      "/projects/sample/resources/images/ui/hud/page-title.png",
+      "/projects/sample/resources/images/ui/hud/ready.png",
+      "/projects/sample/resources/images/ui/hud/start.png",
+      "/projects/sample/resources/images/ui/hud/step-1-hud.png",
+      "/projects/sample/resources/images/ui/hud/step-2-hud.png",
+      "/projects/sample/resources/images/ui/hud/step.png",
+      "/projects/sample/resources/images/ui/hud/timeover.png",
+      "/projects/sample/resources/images/ui/hud/timer-badge.png",
+      "/projects/sample/resources/images/ui/intro-card.png",
+      "/projects/sample/resources/images/ui/markers/answer-marker.png",
+      "/projects/sample/resources/images/ui/panels/puzzle-panel-frame.png",
+      "/projects/sample/resources/images/ui/puzzle-frame.png",
+      "/projects/sample/resources/images/ui/timeout-card.png",
+      "/projects/sample/resources/images/ui/timer-badge.png",
+      "/projects/sample/resources/images/ui/transitions/book-page.png"
+    ],
+    "effectImages": [
+      "/projects/sample/resources/images/effects/answer-marker-ring.png",
+      "/projects/sample/resources/images/effects/glow-strip-cyan.png"
+    ],
+    "backgroundVideos": [
+      "/projects/sample/resources/videos/backgrounds/ambient-pan.mp4",
+      "/projects/sample/resources/videos/backgrounds/ingame-back.mp4",
+      "/projects/sample/resources/videos/backgrounds/startintro.mp4"
+    ],
+    "bgm": [
+      "/projects/sample/resources/audio/bgm/1.mp3",
+      "/projects/sample/resources/audio/bgm/10.mp3",
+      "/projects/sample/resources/audio/bgm/2.mp3",
+      "/projects/sample/resources/audio/bgm/3.mp3",
+      "/projects/sample/resources/audio/bgm/4.mp3",
+      "/projects/sample/resources/audio/bgm/5.mp3",
+      "/projects/sample/resources/audio/bgm/6.mp3",
+      "/projects/sample/resources/audio/bgm/7.mp3",
+      "/projects/sample/resources/audio/bgm/8.mp3",
+      "/projects/sample/resources/audio/bgm/9.mp3",
+      "/projects/sample/resources/audio/bgm/end-sound.wav",
+      "/projects/sample/resources/audio/bgm/sample-bgm.wav"
+    ],
+    "sfx": [
+      "/projects/sample/resources/audio/sfx/bookpage.wav",
+      "/projects/sample/resources/audio/sfx/countdown-hit.wav",
+      "/projects/sample/resources/audio/sfx/ok.mp3",
+      "/projects/sample/resources/audio/sfx/reveal-chime.wav"
+    ],
+    "ui": {
+      "hudBar": "/projects/sample/resources/images/ui/hud/hud-bar.png",
+      "timerBadge": "/projects/sample/resources/images/ui/hud/timer-badge.png",
+      "countdownDigitsDir": "/projects/sample/resources/images/ui/countdown",
+      "puzzlePanelFrame": "/projects/sample/resources/images/ui/panels/puzzle-panel-frame.png",
+      "titleCardFrame": "/projects/sample/resources/images/ui/cards/title-card-frame.png",
+      "timeoutCardFrame": "/projects/sample/resources/images/ui/cards/timeout-card-frame.png",
+      "answerMarker": "/projects/sample/resources/images/ui/markers/answer-marker.png"
+    }
+  },
+  "replaceableFiles": [
+    {
+      "category": "backgroundImage",
+      "fileName": "puzzle-bg.png",
+      "relativePath": "resources/images/backgrounds/puzzle-bg.png",
+      "publicPath": "/projects/sample/resources/images/backgrounds/puzzle-bg.png"
+    },
+    {
+      "category": "backgroundImage",
+      "fileName": "title-bg.png",
+      "relativePath": "resources/images/backgrounds/title-bg.png",
+      "publicPath": "/projects/sample/resources/images/backgrounds/title-bg.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "timeout-card-frame.png",
+      "relativePath": "resources/images/ui/cards/timeout-card-frame.png",
+      "publicPath": "/projects/sample/resources/images/ui/cards/timeout-card-frame.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "title-card-frame.png",
+      "relativePath": "resources/images/ui/cards/title-card-frame.png",
+      "publicPath": "/projects/sample/resources/images/ui/cards/title-card-frame.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "0.png",
+      "relativePath": "resources/images/ui/countdown/0.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/0.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "1.png",
+      "relativePath": "resources/images/ui/countdown/1.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/1.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "10.png",
+      "relativePath": "resources/images/ui/countdown/10.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/10.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "100.png",
+      "relativePath": "resources/images/ui/countdown/100.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/100.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "101.png",
+      "relativePath": "resources/images/ui/countdown/101.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/101.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "102.png",
+      "relativePath": "resources/images/ui/countdown/102.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/102.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "103.png",
+      "relativePath": "resources/images/ui/countdown/103.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/103.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "104.png",
+      "relativePath": "resources/images/ui/countdown/104.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/104.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "105.png",
+      "relativePath": "resources/images/ui/countdown/105.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/105.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "106.png",
+      "relativePath": "resources/images/ui/countdown/106.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/106.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "107.png",
+      "relativePath": "resources/images/ui/countdown/107.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/107.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "108.png",
+      "relativePath": "resources/images/ui/countdown/108.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/108.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "109.png",
+      "relativePath": "resources/images/ui/countdown/109.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/109.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "11.png",
+      "relativePath": "resources/images/ui/countdown/11.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/11.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "110.png",
+      "relativePath": "resources/images/ui/countdown/110.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/110.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "111.png",
+      "relativePath": "resources/images/ui/countdown/111.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/111.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "112.png",
+      "relativePath": "resources/images/ui/countdown/112.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/112.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "113.png",
+      "relativePath": "resources/images/ui/countdown/113.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/113.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "114.png",
+      "relativePath": "resources/images/ui/countdown/114.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/114.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "115.png",
+      "relativePath": "resources/images/ui/countdown/115.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/115.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "116.png",
+      "relativePath": "resources/images/ui/countdown/116.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/116.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "117.png",
+      "relativePath": "resources/images/ui/countdown/117.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/117.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "118.png",
+      "relativePath": "resources/images/ui/countdown/118.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/118.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "119.png",
+      "relativePath": "resources/images/ui/countdown/119.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/119.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "12.png",
+      "relativePath": "resources/images/ui/countdown/12.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/12.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "120.png",
+      "relativePath": "resources/images/ui/countdown/120.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/120.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "13.png",
+      "relativePath": "resources/images/ui/countdown/13.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/13.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "14.png",
+      "relativePath": "resources/images/ui/countdown/14.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/14.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "15.png",
+      "relativePath": "resources/images/ui/countdown/15.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/15.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "16.png",
+      "relativePath": "resources/images/ui/countdown/16.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/16.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "17.png",
+      "relativePath": "resources/images/ui/countdown/17.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/17.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "18.png",
+      "relativePath": "resources/images/ui/countdown/18.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/18.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "19.png",
+      "relativePath": "resources/images/ui/countdown/19.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/19.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "2.png",
+      "relativePath": "resources/images/ui/countdown/2.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/2.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "20.png",
+      "relativePath": "resources/images/ui/countdown/20.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/20.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "21.png",
+      "relativePath": "resources/images/ui/countdown/21.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/21.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "22.png",
+      "relativePath": "resources/images/ui/countdown/22.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/22.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "23.png",
+      "relativePath": "resources/images/ui/countdown/23.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/23.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "24.png",
+      "relativePath": "resources/images/ui/countdown/24.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/24.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "25.png",
+      "relativePath": "resources/images/ui/countdown/25.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/25.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "26.png",
+      "relativePath": "resources/images/ui/countdown/26.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/26.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "27.png",
+      "relativePath": "resources/images/ui/countdown/27.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/27.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "28.png",
+      "relativePath": "resources/images/ui/countdown/28.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/28.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "29.png",
+      "relativePath": "resources/images/ui/countdown/29.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/29.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "3.png",
+      "relativePath": "resources/images/ui/countdown/3.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/3.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "30.png",
+      "relativePath": "resources/images/ui/countdown/30.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/30.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "31.png",
+      "relativePath": "resources/images/ui/countdown/31.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/31.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "32.png",
+      "relativePath": "resources/images/ui/countdown/32.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/32.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "33.png",
+      "relativePath": "resources/images/ui/countdown/33.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/33.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "34.png",
+      "relativePath": "resources/images/ui/countdown/34.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/34.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "35.png",
+      "relativePath": "resources/images/ui/countdown/35.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/35.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "36.png",
+      "relativePath": "resources/images/ui/countdown/36.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/36.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "37.png",
+      "relativePath": "resources/images/ui/countdown/37.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/37.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "38.png",
+      "relativePath": "resources/images/ui/countdown/38.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/38.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "39.png",
+      "relativePath": "resources/images/ui/countdown/39.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/39.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "4.png",
+      "relativePath": "resources/images/ui/countdown/4.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/4.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "40.png",
+      "relativePath": "resources/images/ui/countdown/40.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/40.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "41.png",
+      "relativePath": "resources/images/ui/countdown/41.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/41.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "42.png",
+      "relativePath": "resources/images/ui/countdown/42.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/42.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "43.png",
+      "relativePath": "resources/images/ui/countdown/43.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/43.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "44.png",
+      "relativePath": "resources/images/ui/countdown/44.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/44.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "45.png",
+      "relativePath": "resources/images/ui/countdown/45.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/45.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "46.png",
+      "relativePath": "resources/images/ui/countdown/46.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/46.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "47.png",
+      "relativePath": "resources/images/ui/countdown/47.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/47.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "48.png",
+      "relativePath": "resources/images/ui/countdown/48.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/48.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "49.png",
+      "relativePath": "resources/images/ui/countdown/49.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/49.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "5.png",
+      "relativePath": "resources/images/ui/countdown/5.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/5.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "50.png",
+      "relativePath": "resources/images/ui/countdown/50.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/50.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "51.png",
+      "relativePath": "resources/images/ui/countdown/51.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/51.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "52.png",
+      "relativePath": "resources/images/ui/countdown/52.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/52.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "53.png",
+      "relativePath": "resources/images/ui/countdown/53.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/53.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "54.png",
+      "relativePath": "resources/images/ui/countdown/54.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/54.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "55.png",
+      "relativePath": "resources/images/ui/countdown/55.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/55.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "56.png",
+      "relativePath": "resources/images/ui/countdown/56.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/56.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "57.png",
+      "relativePath": "resources/images/ui/countdown/57.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/57.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "58.png",
+      "relativePath": "resources/images/ui/countdown/58.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/58.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "59.png",
+      "relativePath": "resources/images/ui/countdown/59.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/59.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "6.png",
+      "relativePath": "resources/images/ui/countdown/6.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/6.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "60.png",
+      "relativePath": "resources/images/ui/countdown/60.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/60.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "61.png",
+      "relativePath": "resources/images/ui/countdown/61.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/61.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "62.png",
+      "relativePath": "resources/images/ui/countdown/62.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/62.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "63.png",
+      "relativePath": "resources/images/ui/countdown/63.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/63.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "64.png",
+      "relativePath": "resources/images/ui/countdown/64.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/64.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "65.png",
+      "relativePath": "resources/images/ui/countdown/65.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/65.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "66.png",
+      "relativePath": "resources/images/ui/countdown/66.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/66.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "67.png",
+      "relativePath": "resources/images/ui/countdown/67.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/67.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "68.png",
+      "relativePath": "resources/images/ui/countdown/68.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/68.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "69.png",
+      "relativePath": "resources/images/ui/countdown/69.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/69.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "7.png",
+      "relativePath": "resources/images/ui/countdown/7.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/7.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "70.png",
+      "relativePath": "resources/images/ui/countdown/70.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/70.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "71.png",
+      "relativePath": "resources/images/ui/countdown/71.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/71.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "72.png",
+      "relativePath": "resources/images/ui/countdown/72.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/72.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "73.png",
+      "relativePath": "resources/images/ui/countdown/73.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/73.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "74.png",
+      "relativePath": "resources/images/ui/countdown/74.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/74.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "75.png",
+      "relativePath": "resources/images/ui/countdown/75.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/75.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "76.png",
+      "relativePath": "resources/images/ui/countdown/76.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/76.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "77.png",
+      "relativePath": "resources/images/ui/countdown/77.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/77.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "78.png",
+      "relativePath": "resources/images/ui/countdown/78.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/78.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "79.png",
+      "relativePath": "resources/images/ui/countdown/79.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/79.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "8.png",
+      "relativePath": "resources/images/ui/countdown/8.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/8.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "80.png",
+      "relativePath": "resources/images/ui/countdown/80.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/80.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "81.png",
+      "relativePath": "resources/images/ui/countdown/81.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/81.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "82.png",
+      "relativePath": "resources/images/ui/countdown/82.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/82.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "83.png",
+      "relativePath": "resources/images/ui/countdown/83.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/83.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "84.png",
+      "relativePath": "resources/images/ui/countdown/84.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/84.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "85.png",
+      "relativePath": "resources/images/ui/countdown/85.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/85.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "86.png",
+      "relativePath": "resources/images/ui/countdown/86.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/86.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "87.png",
+      "relativePath": "resources/images/ui/countdown/87.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/87.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "88.png",
+      "relativePath": "resources/images/ui/countdown/88.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/88.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "89.png",
+      "relativePath": "resources/images/ui/countdown/89.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/89.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "9.png",
+      "relativePath": "resources/images/ui/countdown/9.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/9.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "90.png",
+      "relativePath": "resources/images/ui/countdown/90.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/90.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "91.png",
+      "relativePath": "resources/images/ui/countdown/91.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/91.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "92.png",
+      "relativePath": "resources/images/ui/countdown/92.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/92.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "93.png",
+      "relativePath": "resources/images/ui/countdown/93.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/93.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "94.png",
+      "relativePath": "resources/images/ui/countdown/94.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/94.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "95.png",
+      "relativePath": "resources/images/ui/countdown/95.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/95.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "96.png",
+      "relativePath": "resources/images/ui/countdown/96.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/96.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "97.png",
+      "relativePath": "resources/images/ui/countdown/97.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/97.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "98.png",
+      "relativePath": "resources/images/ui/countdown/98.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/98.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "99.png",
+      "relativePath": "resources/images/ui/countdown/99.png",
+      "publicPath": "/projects/sample/resources/images/ui/countdown/99.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "hud-blue.png",
+      "relativePath": "resources/images/ui/hud-blue.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud-blue.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "hud-teal.png",
+      "relativePath": "resources/images/ui/hud-teal.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud-teal.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "answer-1-hud.png",
+      "relativePath": "resources/images/ui/hud/answer-1-hud.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/answer-1-hud.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "bee-flap-1.png",
+      "relativePath": "resources/images/ui/hud/bee-flap-1.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/bee-flap-1.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "bee-flap-2.png",
+      "relativePath": "resources/images/ui/hud/bee-flap-2.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/bee-flap-2.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "bee-flap-3.png",
+      "relativePath": "resources/images/ui/hud/bee-flap-3.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/bee-flap-3.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "bee-flap-4.png",
+      "relativePath": "resources/images/ui/hud/bee-flap-4.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/bee-flap-4.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "bee-strip.png",
+      "relativePath": "resources/images/ui/hud/bee-strip.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/bee-strip.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "bee.png",
+      "relativePath": "resources/images/ui/hud/bee.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/bee.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "beehouse.png",
+      "relativePath": "resources/images/ui/hud/beehouse.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/beehouse.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "ending.png",
+      "relativePath": "resources/images/ui/hud/ending.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/ending.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "hud-bar.png",
+      "relativePath": "resources/images/ui/hud/hud-bar.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/hud-bar.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "hud-blue.png",
+      "relativePath": "resources/images/ui/hud/hud-blue.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/hud-blue.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "hud-teal.png",
+      "relativePath": "resources/images/ui/hud/hud-teal.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/hud-teal.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "logo-game.png",
+      "relativePath": "resources/images/ui/hud/logo-game.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/logo-game.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "page-title.png",
+      "relativePath": "resources/images/ui/hud/page-title.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/page-title.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "ready.png",
+      "relativePath": "resources/images/ui/hud/ready.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/ready.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "start.png",
+      "relativePath": "resources/images/ui/hud/start.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/start.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "step-1-hud.png",
+      "relativePath": "resources/images/ui/hud/step-1-hud.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/step-1-hud.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "step-2-hud.png",
+      "relativePath": "resources/images/ui/hud/step-2-hud.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/step-2-hud.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "step.png",
+      "relativePath": "resources/images/ui/hud/step.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/step.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "timeover.png",
+      "relativePath": "resources/images/ui/hud/timeover.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/timeover.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "timer-badge.png",
+      "relativePath": "resources/images/ui/hud/timer-badge.png",
+      "publicPath": "/projects/sample/resources/images/ui/hud/timer-badge.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "intro-card.png",
+      "relativePath": "resources/images/ui/intro-card.png",
+      "publicPath": "/projects/sample/resources/images/ui/intro-card.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "answer-marker.png",
+      "relativePath": "resources/images/ui/markers/answer-marker.png",
+      "publicPath": "/projects/sample/resources/images/ui/markers/answer-marker.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "puzzle-panel-frame.png",
+      "relativePath": "resources/images/ui/panels/puzzle-panel-frame.png",
+      "publicPath": "/projects/sample/resources/images/ui/panels/puzzle-panel-frame.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "puzzle-frame.png",
+      "relativePath": "resources/images/ui/puzzle-frame.png",
+      "publicPath": "/projects/sample/resources/images/ui/puzzle-frame.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "timeout-card.png",
+      "relativePath": "resources/images/ui/timeout-card.png",
+      "publicPath": "/projects/sample/resources/images/ui/timeout-card.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "timer-badge.png",
+      "relativePath": "resources/images/ui/timer-badge.png",
+      "publicPath": "/projects/sample/resources/images/ui/timer-badge.png"
+    },
+    {
+      "category": "uiImage",
+      "fileName": "book-page.png",
+      "relativePath": "resources/images/ui/transitions/book-page.png",
+      "publicPath": "/projects/sample/resources/images/ui/transitions/book-page.png"
+    },
+    {
+      "category": "effectImage",
+      "fileName": "answer-marker-ring.png",
+      "relativePath": "resources/images/effects/answer-marker-ring.png",
+      "publicPath": "/projects/sample/resources/images/effects/answer-marker-ring.png"
+    },
+    {
+      "category": "effectImage",
+      "fileName": "glow-strip-cyan.png",
+      "relativePath": "resources/images/effects/glow-strip-cyan.png",
+      "publicPath": "/projects/sample/resources/images/effects/glow-strip-cyan.png"
+    },
+    {
+      "category": "backgroundVideo",
+      "fileName": "ambient-pan.mp4",
+      "relativePath": "resources/videos/backgrounds/ambient-pan.mp4",
+      "publicPath": "/projects/sample/resources/videos/backgrounds/ambient-pan.mp4"
+    },
+    {
+      "category": "backgroundVideo",
+      "fileName": "ingame-back.mp4",
+      "relativePath": "resources/videos/backgrounds/ingame-back.mp4",
+      "publicPath": "/projects/sample/resources/videos/backgrounds/ingame-back.mp4"
+    },
+    {
+      "category": "backgroundVideo",
+      "fileName": "startintro.mp4",
+      "relativePath": "resources/videos/backgrounds/startintro.mp4",
+      "publicPath": "/projects/sample/resources/videos/backgrounds/startintro.mp4"
+    },
+    {
+      "category": "bgm",
+      "fileName": "1.mp3",
+      "relativePath": "resources/audio/bgm/1.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/1.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "10.mp3",
+      "relativePath": "resources/audio/bgm/10.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/10.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "2.mp3",
+      "relativePath": "resources/audio/bgm/2.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/2.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "3.mp3",
+      "relativePath": "resources/audio/bgm/3.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/3.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "4.mp3",
+      "relativePath": "resources/audio/bgm/4.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/4.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "5.mp3",
+      "relativePath": "resources/audio/bgm/5.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/5.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "6.mp3",
+      "relativePath": "resources/audio/bgm/6.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/6.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "7.mp3",
+      "relativePath": "resources/audio/bgm/7.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/7.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "8.mp3",
+      "relativePath": "resources/audio/bgm/8.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/8.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "9.mp3",
+      "relativePath": "resources/audio/bgm/9.mp3",
+      "publicPath": "/projects/sample/resources/audio/bgm/9.mp3"
+    },
+    {
+      "category": "bgm",
+      "fileName": "end-sound.wav",
+      "relativePath": "resources/audio/bgm/end-sound.wav",
+      "publicPath": "/projects/sample/resources/audio/bgm/end-sound.wav"
+    },
+    {
+      "category": "bgm",
+      "fileName": "sample-bgm.wav",
+      "relativePath": "resources/audio/bgm/sample-bgm.wav",
+      "publicPath": "/projects/sample/resources/audio/bgm/sample-bgm.wav"
+    },
+    {
+      "category": "sfx",
+      "fileName": "bookpage.wav",
+      "relativePath": "resources/audio/sfx/bookpage.wav",
+      "publicPath": "/projects/sample/resources/audio/sfx/bookpage.wav"
+    },
+    {
+      "category": "sfx",
+      "fileName": "countdown-hit.wav",
+      "relativePath": "resources/audio/sfx/countdown-hit.wav",
+      "publicPath": "/projects/sample/resources/audio/sfx/countdown-hit.wav"
+    },
+    {
+      "category": "sfx",
+      "fileName": "ok.mp3",
+      "relativePath": "resources/audio/sfx/ok.mp3",
+      "publicPath": "/projects/sample/resources/audio/sfx/ok.mp3"
+    },
+    {
+      "category": "sfx",
+      "fileName": "reveal-chime.wav",
+      "relativePath": "resources/audio/sfx/reveal-chime.wav",
+      "publicPath": "/projects/sample/resources/audio/sfx/reveal-chime.wav"
+    }
+  ]
+}
