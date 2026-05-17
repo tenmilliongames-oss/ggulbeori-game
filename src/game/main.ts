@@ -680,6 +680,8 @@ function bindGame(dom: GameDom, data: GameData, state: SpotGameState): void {
   let levelLoadId = 0;
   let levelPageLoadId = 0;
   let currentLevelPage = 0;
+  dom.backToStylesButton.hidden = data.styles.length <= 1;
+
   const updateAll = (): void => {
     renderLevel(dom, data, state);
     renderHud(dom, state);
@@ -942,7 +944,7 @@ function bindGame(dom: GameDom, data: GameData, state: SpotGameState): void {
 
   state.pause();
   renderHud(dom, state);
-  showStyleSelect(dom);
+  void openLevelSelectPage(state.currentStyle, currentLevelPage, true);
   requestAnimationFrame(tick);
 }
 
