@@ -10,6 +10,7 @@ tmp/
 analysis_frames/
 analysis_keyframes/
 .playwright-cli/
+.playwright-mcp/
 
 # Local environment and secrets
 .env
