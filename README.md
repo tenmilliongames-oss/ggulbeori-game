@@ -19,7 +19,7 @@ npm run build
 
 ## Cloudflare Pages 설정
 
-- Build command: `npm run build`
+- Build command: `npm run build:pages`
 - Build output directory: `dist`
 - Root directory: 비워둠
 - Production branch: `main`
